@@ -4,7 +4,7 @@ Tugas 2 Praktikum Struktur Data dan Algoritma B
 Enhanced Sorting Algorithms Comparison Program
 Name : Zaw Thein Htet
 NPM  : 250810701100118
- =====================================================
+=====================================================
  */
 
 #include <stdio.h>
