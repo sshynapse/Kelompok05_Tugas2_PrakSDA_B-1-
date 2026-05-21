@@ -275,7 +275,6 @@ void basicSortingMenu(void) {
     }
     free(base);
 }
-
 void advancedSortingMenu(void) {
     int choice;
     char words[MAX_WORDS][MAX_LEN];
